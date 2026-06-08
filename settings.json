@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Enriico_",
+    "username": "iiiii",
     "password": "",
-    "type": "online"
-  },
+    "type": "offline"
+  
   "server": {
-    "ip": "Projektnew2.aternos.me",
-    "port": 21474,
-    "version": "1.21.11",
-    "try-creative": true 
+    "ip": "",
+    "port": ,
+    "version": "1,
+    "try-creative": false 
   },
   "position": {
     "enabled": true,
